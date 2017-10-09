@@ -1,0 +1,151 @@
+Starting query for ['cat', (0, 10), 'are', (0, 10), 'to']
+
+Time: 
+0:00:00.134577
+(5629, 5648)
+cats are thought to
+(39966, 39983)
+cats are prone to
+(40826, 40842)
+cats are able to
+(40826, 40845)
+cats are able to to
+(44224, 44240)
+cats are able to
+(96694, 96710)
+cats are [[lacto
+(107828, 107845)
+cats are ready to
+(107931, 107947)
+cat care: how to
+(131523, 131541)
+cats are needed to
+Number of matches: 
+9
+
+Starting query for ['cat', (0, 100), 'anatomy']
+
+Time: 
+0:00:00.030996
+(3112, 3145)
+cats are similar in [[cat anatomy
+(3112, 3153)
+cats are similar in [[cat anatomy|anatomy
+(3134, 3145)
+cat anatomy
+(3134, 3153)
+cat anatomy|anatomy
+(30114, 30125)
+cat anatomy
+(30114, 30153)
+cat anatomy}} [[file:scheme cat anatomy
+(30114, 30216)
+cat anatomy}} [[file:scheme cat anatomy.svg|thumb|upright=1.6|lang=en|diagram of the general [[anatomy
+(30142, 30153)
+cat anatomy
+(30142, 30216)
+cat anatomy.svg|thumb|upright=1.6|lang=en|diagram of the general [[anatomy
+(45828, 45848)
+cat's [[gut (anatomy
+(54284, 54338)
+cat's large movable outer ears (their [[pinna (anatomy
+Number of matches: 
+11
+
+Starting query for ['china', (30, 150), 'washington']
+
+Time: 
+0:00:00.001278
+(140146, 140246)
+china]] has been published by archaeologists and paleontologists from the [[university of washington
+Number of matches: 
+1
+
+Starting query for ['english', (0, 200), 'cat']
+
+Time: 
+0:00:00.101468
+(381, 568)
+english, typically the one it was created in when, as here, the topic has no strong national ties. this article was created with american english.--> {{subspeciesbox | name = domestic cat
+(519, 568)
+english.--> {{subspeciesbox | name = domestic cat
+(2598, 2677)
+english language |edition= yahoo.com online |publisher= houghton mifflin |locat
+(22700, 22725)
+english word ''[[wikt:cat
+(22700, 22737)
+english word ''[[wikt:cat#english|cat
+(22700, 22764)
+english word ''[[wikt:cat#english|cat]]'' ([[old english]] ''cat
+(22726, 22737)
+english|cat
+(22726, 22764)
+english|cat]]'' ([[old english]] ''cat
+(22749, 22764)
+english]] ''cat
+(23317, 23435)
+english words and their background|publisher=d. appleton and company {{subscription required |via=[[questia]]}} |locat
+(25976, 26052)
+english ''[[wikt:puss#english|puss]]'' (extended as ''pussy'' and ''pussycat
+(25998, 26052)
+english|puss]]'' (extended as ''pussy'' and ''pussycat
+(26788, 26869)
+english language''. new york: gramercy books, 1996, p. 1571.</ref> a group of cat
+(27826, 27931)
+english dictionary|publisher=oxford university press|accessdate=1 october 2012}}</ref> and a juvenile cat
+(27826, 27996)
+english dictionary|publisher=oxford university press|accessdate=1 october 2012}}</ref> and a juvenile cat is referred to as a ''[[kitten]]''. the male progenitor of a cat
+(27826, 28024)
+english dictionary|publisher=oxford university press|accessdate=1 october 2012}}</ref> and a juvenile cat is referred to as a ''[[kitten]]''. the male progenitor of a cat, especially a pedigreed cat
+(28427, 28615)
+english dictionary|publisher=oxford university press|accessdate=1 october 2012}}</ref> in [[early modern english]], the word ''kitten'' was interchangeable with the now obsolete word ''cat
+(28532, 28615)
+english]], the word ''kitten'' was interchangeable with the now obsolete word ''cat
+(28532, 28696)
+english]], the word ''kitten'' was interchangeable with the now obsolete word ''catling''.<ref>{{cite web|url=http://www.oed.com/view/entry/28995?redirectedfrom=cat
+(28532, 28714)
+english]], the word ''kitten'' was interchangeable with the now obsolete word ''catling''.<ref>{{cite web|url=http://www.oed.com/view/entry/28995?redirectedfrom=catling#eid|title=cat
+(28735, 28839)
+english dictionary|publisher=oxford university press|accessdate=1 october 2012}}</ref> a [[pedigree (cat
+(28735, 28854)
+english dictionary|publisher=oxford university press|accessdate=1 october 2012}}</ref> a [[pedigree (cat)|pedigreed cat
+(28735, 28901)
+english dictionary|publisher=oxford university press|accessdate=1 october 2012}}</ref> a [[pedigree (cat)|pedigreed cat]] is one whose ancestry is recorded by a [[cat
+(28735, 28911)
+english dictionary|publisher=oxford university press|accessdate=1 october 2012}}</ref> a [[pedigree (cat)|pedigreed cat]] is one whose ancestry is recorded by a [[cat fancy|cat
+(29325, 29424)
+english|british]]), or (using terms borrowed from [[dog breeds|dog breeding]]) mongrels or mutt-cat
+(29325, 29454)
+english|british]]), or (using terms borrowed from [[dog breeds|dog breeding]]) mongrels or mutt-cats. while the [[african wildcat
+(29325, 29508)
+english|british]]), or (using terms borrowed from [[dog breeds|dog breeding]]) mongrels or mutt-cats. while the [[african wildcat]] is the ancestral subspecies from which domestic cat
+(134846, 134898)
+english.pravda.ru/society/family/09-01-2006/9478-cat
+(134846, 134995)
+english.pravda.ru/society/family/09-01-2006/9478-cats-0/|publisher=pravda.ru|accessdate=3 october 2014}}</ref><ref>{{cite news|title=study traces cat
+(138542, 138559)
+english tabby cat
+(138542, 138613)
+english tabby cat.jpg|thumb|right|a 19th century drawing of a tabby cat
+(138542, 138695)
+english tabby cat.jpg|thumb|right|a 19th century drawing of a tabby cat]] traditionally, historians tended to think [[ancient egypt]] was the site of cat
+(138542, 138706)
+english tabby cat.jpg|thumb|right|a 19th century drawing of a tabby cat]] traditionally, historians tended to think [[ancient egypt]] was the site of cat domesticat
+Number of matches: 
+33
+
+
+Starting query for ['kitten', (15, 85), 'cat', (0, 100), 'sire', (0, 200), 'oxford']
+
+Time: 
+0:00:00.044487
+(27956, 28168)
+kitten]]''. the male progenitor of a cat, especially a pedigreed cat, is its ''sire'',<ref>{{cite web|url=http://www.oed.com/view/entry/180366?rskey=yylu4e&result=1&isadvanced=false#eid|title=sire|work=the oxford
+(27956, 28204)
+kitten]]''. the male progenitor of a cat, especially a pedigreed cat, is its ''sire'',<ref>{{cite web|url=http://www.oed.com/view/entry/180366?rskey=yylu4e&result=1&isadvanced=false#eid|title=sire|work=the oxford english dictionary|publisher=oxford
+(27956, 28168)
+kitten]]''. the male progenitor of a cat, especially a pedigreed cat, is its ''sire'',<ref>{{cite web|url=http://www.oed.com/view/entry/180366?rskey=yylu4e&result=1&isadvanced=false#eid|title=sire|work=the oxford
+(27956, 28204)
+kitten]]''. the male progenitor of a cat, especially a pedigreed cat, is its ''sire'',<ref>{{cite web|url=http://www.oed.com/view/entry/180366?rskey=yylu4e&result=1&isadvanced=false#eid|title=sire|work=the oxford english dictionary|publisher=oxford
+Number of matches: 
+4
