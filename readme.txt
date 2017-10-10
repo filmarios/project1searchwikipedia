@@ -1,3 +1,7 @@
+
+The resulting strings and times for the reference searches.
+
+
 Query: 
 'cat' (0,10) 'are' (0,10) 'to'
 Matches: 
