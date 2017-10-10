@@ -85,11 +85,8 @@ def check_wiki(words,indexes,word_length,article,query):
     else:
         return False    
 
-    
+### Example of use with the whole wikipedia csv ###
 
-
-# query = "'cat' (0,10) 'are' (0,10) 'to'"
-# query = "'arnold' (0,10) 'schwarzenegger' (0,10) 'is'"
 query = "'elephants' (0,20) 'are' (0,20) 'to'"
 ARTICLE = 'articles.csv'
 
